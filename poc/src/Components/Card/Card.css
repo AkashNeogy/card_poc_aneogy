@@ -1,0 +1,29 @@
+#main {
+  height: fit-content;
+  background-color: #014001;
+  color: white;
+  padding-left: 50px;
+}
+#cardTitle {
+  padding-top: 30px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+#cardText {
+  padding-top: 20px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  max-width: 400px;
+  font-size: 40px;
+  line-height: 45px;
+}
+#mainImg {
+  height: 445px;
+  width: 535px;
+}
+#quoteText {
+  padding-top: 20px;
+  max-width: 350px;
+  font-size: 15px;
+}
+#button {
+  padding-bottom: 10px;
+}

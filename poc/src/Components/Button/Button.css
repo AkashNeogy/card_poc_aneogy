@@ -1,0 +1,21 @@
+#button {
+  font-weight: bold;
+  border-radius: 999em;
+}
+#button:hover {
+  background-color: white;
+  color: green;
+}
+#button:focus {
+  border: dashed;
+}
+#button:active {
+  background-color: white;
+  color: green;
+}
+#button:visited {
+  text-decoration: none;
+}
+#button:disabled {
+  background-color: grey;
+}
